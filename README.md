@@ -88,7 +88,6 @@ Cyber-Cafe/
 ├── security_log.txt
 └── README.md
 
-
 **File Description:**
 - CyberCafe.c – Contains the main C source code.
 - users.txt – Stores registered user information.

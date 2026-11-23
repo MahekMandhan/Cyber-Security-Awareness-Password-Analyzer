@@ -79,6 +79,7 @@ The Cyber Cafe application provides the following features:
 6. Important activities are recorded in the activity log.
 7. Users can log out, log in again, or exit the application.
 
+
  6. **Project Structure**
 
 ```text

@@ -81,12 +81,14 @@ The Cyber Cafe application provides the following features:
 
  6. **Project Structure**
 
+```text
 Cyber-Cafe/
 │
 ├── CyberCafe.c
 ├── users.txt
 ├── security_log.txt
 └── README.md
+```
 
 **File Description:**
 - CyberCafe.c – Contains the main C source code.
